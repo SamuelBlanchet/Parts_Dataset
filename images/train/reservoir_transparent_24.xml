@@ -1,0 +1,26 @@
+<annotation>
+	<folder>reservoir_transparent</folder>
+	<filename>reservoir_transparent_24.jpeg</filename>
+	<path>/media/ap09180/AP09180_SD/Tests_Matrox_ModelFinder/reservoir_transparent/reservoir_transparent_24.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reservoir_transparent_Under</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>9</ymin>
+			<xmax>512</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
