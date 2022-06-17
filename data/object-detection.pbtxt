@@ -1,0 +1,33 @@
+# LABEL file 
+# Last modified by ThundluckS on 13 Dec'19
+# revise name for labels : 'totoro' && 'nekobus'
+
+item {
+    id: 1
+    name:'887_A-Top'
+}
+
+item {
+    id: 2
+    name: '887_A-Under'
+}
+
+item {
+    id: 3
+    name: '887_B-Top'
+}
+
+item {
+    id: 4
+    name: '887_B-Under'
+}
+
+item {
+    id: 5
+    name: 'reservoir_transparent_Top'
+}
+
+item {
+    id: 6
+    name: 'reservoir_transparent_Under'
+}
